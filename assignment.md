@@ -1,0 +1,3 @@
+I was unable to do the assignment as I have a wedding at my house. Due to the wedding preparation, I wrecked my acads to a fair extent. Also, we have many quizzes during this time, so I have to complete my backlogs and have to perform well in these quizzes to cover up my losses in midsem. 
+I go through the ros tutorial but did not understand much. I also go through the YT tutorial(Robotics club IITK and tutorials by Shawn Chen). I also tried to write beginners tutorials in cpp, but I did not get time to do the assignment. I am also doing ACA and SnT projects and am facing problem in time management.
+
